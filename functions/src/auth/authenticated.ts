@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { Request, Response } from "express";
 import * as admin from "firebase-admin";
 
